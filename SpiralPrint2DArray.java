@@ -86,7 +86,8 @@ public class SpiralPrint2DArray {
 
 			secondDArray.add(lineArray);
 		}
-
+       
+		//Calling static function to print in spiral format
 		spiralOrder(secondDArray);
 
 	}
